@@ -1,0 +1,18 @@
+.classes {
+    background-color: rgb(238, 137, 137);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#number3 {
+    font-size: 24px;
+}
+
+#id2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id4 {
+    background-color: rgb(127, 224, 156);
+    font-weight: bold;
+}

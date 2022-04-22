@@ -1,0 +1,15 @@
+.clickme {
+    color: white;
+    background-color: black;
+}
+
+.no {
+    color: black;
+    background-color: yellow;
+}
+
+button {
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    border-color: rgb(200, 200,200);
+}
